@@ -63,10 +63,7 @@ A websocket interface for a twitter like engine is successfully implemented with
 -   Query tweets by mention, hashtag & by subscribed users
 A websocket connection is established after registering and redirected to /name/main. Once a user tweeted, all the subscribed users will instantly get in the feed through websockets without any user interaction.
 
-## Relevant Links
-- [Twitter API README](https://github.com/koushik4/COP5615-DOSP/blob/main/Twitter%20API/README.md)
-- [Twitter API Source Code](https://github.com/koushik4/COP5615-DOSP/tree/main/Twitter%20API)
-- [Youtube Link](https://youtu.be/21jNTJ_o3R4)
+
 
 
 ## Author 
